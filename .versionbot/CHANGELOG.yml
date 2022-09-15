@@ -1,4 +1,17 @@
 - commits:
+    - subject: Allow operators to set other users avatar
+      hash: 21d2f07ab4639ca32d7f4f0ff8f453026fc07977
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Josh Bowling <josh@monarci.com>
+        signed-off-by: Josh Bowling <josh@monarci.com>
+      author: Josh Bowling
+      nested: []
+  version: 33.4.39
+  date: 2022-09-15T05:53:21.270Z
+- commits:
     - subject: Update autumndb from 22.2.38 to 22.2.44
       hash: 1d64c41c78a9ab6f0395cb78a7bca93cfc497928
       body: ""
